@@ -1,0 +1,15 @@
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\d.csproj.AssemblyReference.cache
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\d.AssemblyInfoInputs.cache
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\d.AssemblyInfo.cs
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\d.csproj.CoreCompileInputs.cache
+C:\Users\islom\Desktop\C\d\bin\Debug\net6.0\d.exe
+C:\Users\islom\Desktop\C\d\bin\Debug\net6.0\d.deps.json
+C:\Users\islom\Desktop\C\d\bin\Debug\net6.0\d.runtimeconfig.json
+C:\Users\islom\Desktop\C\d\bin\Debug\net6.0\d.dll
+C:\Users\islom\Desktop\C\d\bin\Debug\net6.0\d.pdb
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\d.dll
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\refint\d.dll
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\d.pdb
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\d.genruntimeconfig.cache
+C:\Users\islom\Desktop\C\d\obj\Debug\net6.0\ref\d.dll
